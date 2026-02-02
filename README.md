@@ -26,6 +26,7 @@ I am a Beginner Backend Developer <img src="https://media.giphy.com/media/WUlplc
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lilsneq&show_icons=true&theme=default)
 
+![Stats](https://github-readme-stats.vercel.app/api?username=lilsneq&hide_border=true&show_icons=true&count_private=true)
 
 ## 📫 Connect With Me
 - **GitHub:** [@lilsneq](https://github.com/lilsneq)
