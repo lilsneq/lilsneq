@@ -30,5 +30,5 @@ I am a Beginner Backend Developer <img src="https://media.giphy.com/media/WUlplc
 
 ## 📫 Connect With Me
 - **GitHub:** [@lilsneq](https://github.com/lilsneq)
-- **Email:** bilmork2407@gmail.com
+- **Email:** 
 - **Location:** Russia 🇷🇺
