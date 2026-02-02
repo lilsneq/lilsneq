@@ -23,6 +23,9 @@ I am a Beginner Backend Developer <img src="https://media.giphy.com/media/WUlplc
 - **Databases:** 
 - **Web:** 
 
+## 📊 GitHub Activity
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lilsneq&show_icons=true&theme=default&hide_border=true&count_private=true)
+
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lilsneq&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats">
