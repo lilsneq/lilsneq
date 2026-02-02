@@ -17,6 +17,12 @@ I am a Beginner Backend Developer <img src="https://media.giphy.com/media/WUlplc
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>
 
+## 🛠️ Tech Stack
+- **Languages:** Python 3
+- **Tools:** Git, GitHub, PyCharm
+- **Databases:** 
+- **Web:** 
+
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lilsneq&show_icons=true&theme=default)
 
