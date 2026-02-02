@@ -10,6 +10,7 @@
 
 # 👨‍💻 lilsneq | Python Developer
 I am a Beginner Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+
 🚀 Начинающий разработчик на Python, создаю интересные проекты и учусь новому!
 ### :hammer_and_wrench: Languages and Tools :
 <div>
