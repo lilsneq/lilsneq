@@ -23,11 +23,11 @@ I am a Beginner Backend Developer <img src="https://media.giphy.com/media/WUlplc
 - **Databases:** 
 - **Web:** 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apililsneqanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?lilsneq=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/apililsneqanuraghazra&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?lilsneq=anuraghazra&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
