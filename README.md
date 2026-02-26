@@ -25,6 +25,7 @@ I am a Beginner Backend Developer <img src="https://media.giphy.com/media/WUlplc
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apililsneqanuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apililsneqanuraghazra&hide=contribs,prs)
 
 ## 📫 Connect With Me
 - **GitHub:** [@lilsneq](https://github.com/lilsneq)
