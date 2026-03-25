@@ -39,7 +39,7 @@ I am a Beginner Backend Developer <img src="https://media.giphy.com/media/WUlplc
   <img src="https://github-readme-stats.vercel.app/apililsneqanuraghazra&show_icons=true" />
 </picture>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apililsneqanuraghazra&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?lilsneq=anuraghazra&hide=contribs,prs)
 
 ## 📫 Connect With Me
 - **GitHub:** [@lilsneq](https://github.com/lilsneq)
