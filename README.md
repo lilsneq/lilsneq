@@ -16,30 +16,13 @@ I am a Beginner Backend Developer <img src="https://media.giphy.com/media/WUlplc
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="100" height="100"/>&nbsp;
 </div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="100" height="100"/>&nbsp;
 
 ## 🛠️ Tech Stack
-- **Languages:** Python 3
-- **Tools:** Git, GitHub, PyCharm
-- **Databases:** 
-- **Web:** 
+- **Languages:** Python 3, PostgreSQL
+- **Tools:** Git, GitHub, PyCharm, DBeaver
+- **Databases:** PostgreSQL
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?lilsneq=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?lilsneq=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?lilsneq=anuraghazra&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/apililsneqanuraghazra&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/apililsneqanuraghazra&show_icons=true" />
-</picture>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?lilsneq=anuraghazra&hide=contribs,prs)
 
 ## 📫 Connect With Me
 - **GitHub:** [@lilsneq](https://github.com/lilsneq)
