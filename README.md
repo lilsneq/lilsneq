@@ -4,7 +4,7 @@
 
 ### 📊 GitHub Stats
 
-![lilsneq's GitHub stats](https://vercel.app)
+![lilsneq GitHub stats](https://vercel.app)
 ![Top Langs](https://vercel.app)
 
 
