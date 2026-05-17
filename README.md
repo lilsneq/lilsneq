@@ -2,12 +2,6 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cnFyNDgwdHhsZmF5NjJ5M3l1aDYwcW8wN2t3cTl3OXV2M2Jwa2lydyZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/YRPBhd3vscg5Fxx1DQ/200.webp" width="500"/>
 </div>
 
-
-<div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aDJueGlldXdiNXM1eHB5Z2RjZ2xncHI5ZXZjbm1scG1kczVyOTE5NSZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/uTSLJk2YEutck/giphy.webp" width="600" height="300"/>
-</div>
-
-
 # 👨‍💻 lilsneq | Python Developer
 I am a Beginner Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
