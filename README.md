@@ -7,12 +7,12 @@ I am a Beginner Backend Developer <img src="https://media.giphy.com/media/WUlplc
 
 🚀 Начинающий разработчик на Python, создаю интересные проекты и учусь новому!
 ### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="100" height="100"/>&nbsp;
+
+<div style="display: flex; flex-direction: row; gap: 10px;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="100" height="100"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="100" height="100"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI" alt="FastAPI" width="100" height="100"/>
 </div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="100" height="100"/>&nbsp;
-</div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original-wordmark.svg" title="FastAPI" alt="FastAPI" width="100" height="100"/>&nbsp;
 
 ## 🛠️ Tech Stack
 - **Languages:** Python 3, PostgreSQL
